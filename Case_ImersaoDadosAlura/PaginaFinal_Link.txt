@@ -1,1 +1,1 @@
-https://imersao-alura-dados-2025.streamlit.app/
+https://imersao-alura-dadosv2-2025.streamlit.app/
