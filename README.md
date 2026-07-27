@@ -48,4 +48,4 @@ Neste reposit√≥rio compartilho projetos desenvolvidos durante minha especializa√
 ## Contato
 
 - LinkedIn: www.linkedin.com/in/adriana-garibalde
-- GitHub: https://github.com/DrikaGaribalde
+- GitHub: https://github.com/DrikaGaribalde/Cases_DataScience
